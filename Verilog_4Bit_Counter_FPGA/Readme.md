@@ -4,4 +4,4 @@ vscode in GTKWAVE
 
 Waveform in Vscode
 
-![1776589041677](image/Readme/1776589041677.png)
+![snap_vscode](image/Readme/snap_vscode.png)
