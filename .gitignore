@@ -1,1 +1,36 @@
+# Simulation outputs
 *.vcd
+
+# Vivado
+*.jou
+*.out
+*.runs/
+*.synopsys_dc/
+*.xsim/
+hw_define.xml
+*.bit
+
+# Quartus
+*.rpt
+*.summary
+db/
+incremental_db/
+*.qws
+
+# Icarus Verilog output
+*.fst
+
+# GTKWave
+*.save
+
+# Simulation binaries
+*.vp
+bit_counter_tb
+
+# Modelsim
+*.wlf
+transcript
+vsim.wlf
+
+# ncsim
+ncverilog.log
