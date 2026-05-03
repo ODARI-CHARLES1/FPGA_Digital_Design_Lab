@@ -33,6 +33,7 @@ initial begin
     #200;
 
     $stop;
+    $finish;
 end
 
 endmodule
