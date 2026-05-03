@@ -2,9 +2,14 @@
 
 A collection of FPGA and HDL projects for digital design learning and implementation using Verilog.
 
+# online software
+
+[Chipverify ](https://lab.chipverify.com/)
+
 ## Projects
 
 ### [Verilog_4Bit_Counter_FPGA](./Verilog_4Bit_Counter_FPGA/)
+
 A 4-bit event counter that outputs to LEDs, demonstrating basic counting logic and FPGA output visualization.
 
 ## Getting Started
